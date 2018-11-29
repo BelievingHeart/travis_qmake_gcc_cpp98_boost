@@ -1,5 +1,7 @@
 language: cpp
 compiler: gcc
+git:
+   depth: 3
 
 addons: 
   apt: 
